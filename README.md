@@ -7,7 +7,7 @@ Inspired from https://github.com/agungsugiarto/codeigniter4-eloquent
 Include this package via Composer:
 
 ```console
-composer require masrodie/codeigniter4-queue
+composer require ziostanko/codeigniter4-queue
 ```
 
 ## Setup services queue
